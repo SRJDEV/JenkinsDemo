@@ -1,1 +1,7 @@
-//dummy content
+class Hello{
+public static void main(String[]ar){
+
+  System.out.println("Hello from jenkins");
+
+}
+}
